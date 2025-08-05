@@ -1,6 +1,3 @@
-Here's a comprehensive `README.md` file for your FastAPI eCommerce project based on the website you shared:
-
-```markdown
 # Ecommerce FastAPI Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -103,8 +100,6 @@ python runserver.py
 | GET    | /products               | Get all products                 |
 | POST   | /products               | Create new product (Admin)       |
 | GET    | /products/{id}          | Get product details              |
-| GET    | /categories             | Get all categories               |
-| POST   | /cart                   | Add item to cart                 |
 | GET    | /orders                 | Get user orders                  |
 | POST   | /orders                 | Create new order                 |
 
@@ -133,6 +128,7 @@ CLOUDINARY_API_SECRET=-----------------
 PAYSTACK_SECRET_KEY=---------------------------
 PAYSTACK_PUBLIC_KEY=---------------
 PAYSTACK_BASE_URL=https://api.paystack.co
+```
 
 
 ## Contributing
