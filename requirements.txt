@@ -1,0 +1,15 @@
+fastapi
+passlib
+pydantic
+pydantic-settings
+pydantic_core
+python-dotenv
+python-jose[cryptography]
+python-multipart
+requests
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic[email]
+cloudinary
+httpx
